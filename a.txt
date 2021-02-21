@@ -3,6 +3,6 @@ ver 2
 ver 3
 ver 4
 ver 5
-ver 6 - main
-ver 7 - main
-ver 8 - main
+ver 6
+ver 7
+ver 8
